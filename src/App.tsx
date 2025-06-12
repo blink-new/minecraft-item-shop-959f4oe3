@@ -27,7 +27,7 @@ const items: Item[] = [
     description: 'Rare wings that allow you to glide through the air with style and grace.',
     price: 1.00,
     icon: Feather,
-    image: '/images/elytra.png',
+    image: 'https://images.unsplash.com/photo-1605034313761-73ea4a0cfbf3?w=400&h=300&fit=crop', // Flying/wings theme
     category: 'Equipment'
   },
   {
@@ -36,7 +36,7 @@ const items: Item[] = [
     description: 'Spawns skeletons for your mob farm or defense system.',
     price: 0.25,
     icon: Package,
-    image: '/images/skeleton-spawner.png',
+    image: 'https://images.unsplash.com/photo-1598662779094-110c2bad80b5?w=400&h=300&fit=crop', // Dark/spooky theme
     category: 'Spawners'
   },
   {
@@ -45,7 +45,7 @@ const items: Item[] = [
     description: 'Complete underwater farm setup with 150 sea pickle modules for lighting.',
     price: 3.50,
     icon: Pickaxe,
-    image: '/images/sea-pickle-farm.jpg',
+    image: 'https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400&h=300&fit=crop', // Underwater theme
     category: 'Farms'
   },
   {
@@ -54,7 +54,7 @@ const items: Item[] = [
     description: 'Advanced Minecraft client with performance optimizations and features.',
     price: 2.00,
     icon: Zap,
-    image: '/images/krypton-client.jpg',
+    image: 'https://images.unsplash.com/photo-1552820728-8b83bb6b773f?w=400&h=300&fit=crop', // Tech/gaming theme
     category: 'Software'
   }
 ]
